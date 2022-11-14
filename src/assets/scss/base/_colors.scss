@@ -1,0 +1,39 @@
+//General colors
+$black: #000;
+$white: #fff;
+
+
+// App Theme
+$app-theme: (
+  "primary": #58659D,
+  "secondary": #40C9B5,
+  "tertiary": #F2D140,
+);
+
+// Deuteranopia Theme
+$deuteranopia-theme: (
+  "primary": #022F40,
+  "secondary": #0090C1,
+  "tertiary": #38AECC,
+);
+
+// Protanopia Theme
+$protanopia-theme: (
+  "primary": #1F2041,
+  "secondary": #008DD5,
+  "tertiary": #BDE411,
+);
+
+// Tritanopia Theme
+$tritanopia-theme: (
+  "primary": #434371,
+  "secondary": #79AEA3,
+  "tertiary": #B57F50,
+);
+
+// Acromacia Theme
+$acromacia-theme: (
+  "primary": #333,
+  "secondary": #888,
+  "tertiary": #DDD,
+);
